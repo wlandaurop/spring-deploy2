@@ -153,7 +153,6 @@ hs_err_pid*
 replay_pid*
 
 ### Maven ###
-target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -167,12 +166,8 @@ buildNumber.properties
 
 # Eclipse m2e generated files
 # Eclipse Core
-.project
 # JDT-specific (Eclipse Java Development Tools)
-.classpath
 ### IntelliJ IDEA ###
-.idea
-*.iws
 *.iml
 *.ipr
 
