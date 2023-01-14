@@ -8,7 +8,7 @@ java.runtime.version=19
 ```
 
 
-1. Crear cuenta en heroku.com y github.com Ok.
+1. Crear cuenta en heroku.com y github.com Lo tenemos
 2. Tener configurado en git en el ordenador (ejecutar unicamente la primera vez que se instala Gib):
    1. `git config --global user.name "Wilfredo Landauro`
    2. `git config --global user.email wlandaurop@gmail.com`
