@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
         }
 
 
-        @GetMapping("/hola")
+        @GetMapping("/")
         public String bootstrap(){
             return """
                 <!doctype html>
