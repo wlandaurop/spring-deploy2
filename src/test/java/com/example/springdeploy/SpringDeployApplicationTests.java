@@ -1,7 +1,9 @@
 package com.example.springdeploy;
 
 import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+
+import static java.lang.System.*;
+import static java.lang.System.getenv;
 
 // @SpringBootTest
 class SpringDeployApplicationTests {

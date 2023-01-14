@@ -4,7 +4,7 @@
 Crear archivo `system.properties` en el proyecto con el contenido:
 
 ```
-java.runtime.version=18
+java.runtime.version=19
 ```
 
 
